@@ -1,0 +1,1 @@
+"""glowupgit agent capabilities."""
